@@ -1,0 +1,6 @@
+C:\Users\tnye0\Desktop\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\Acme_Welcome\bin\Debug\Acme_Welcome.exe.config
+C:\Users\tnye0\Desktop\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\Acme_Welcome\bin\Debug\Acme_Welcome.exe
+C:\Users\tnye0\Desktop\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\Acme_Welcome\bin\Debug\Acme_Welcome.pdb
+C:\Users\tnye0\Desktop\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.csproj.CoreCompileInputs.cache
+C:\Users\tnye0\Desktop\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.exe
+C:\Users\tnye0\Desktop\Basic_C#_Programs\Acme_Welcome\Acme_Welcome\Acme_Welcome\obj\Debug\Acme_Welcome.pdb
