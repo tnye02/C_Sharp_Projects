@@ -1,0 +1,7 @@
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe.config
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.pdb
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.csproj.AssemblyReference.cache
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.exe
+C:\Users\tnye0\Desktop\Basic_C#_Programs\TechAcademyDailyReport\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.pdb
