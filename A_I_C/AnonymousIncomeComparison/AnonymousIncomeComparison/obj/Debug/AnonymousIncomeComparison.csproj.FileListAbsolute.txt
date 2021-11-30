@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe.config
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.pdb
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.exe
+E:\C-Sharp\C_Sharp_Projects\A_I_C\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.pdb
