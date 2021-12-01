@@ -26,7 +26,15 @@
         Console.WriteLine("-----------------------------------");
         Console.WriteLine("Annual salary of Person 1: $" + p1_total);               // Outputs salaries for both people
         Console.WriteLine("Annual salary of Person 2: $" + p2_total);
-        
+
+        Console.WriteLine("-----------------------------------");
+        Console.WriteLine("Does Person 1 make more money than Person 2?");
+        bool p1_more = p1_total > p2_total;
+
+        Console.WriteLine(p1_more);
+        Console.WriteLine("Press Enter to exit.");
+
+
         Console.ReadLine();
 
         }
