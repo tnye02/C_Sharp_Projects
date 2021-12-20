@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe.config
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.pdb
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.exe
+E:\C-Sharp\C_Sharp_Projects\Arrays_Lists\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.pdb
