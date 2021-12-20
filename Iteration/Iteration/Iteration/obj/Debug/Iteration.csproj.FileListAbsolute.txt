@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\bin\Debug\Iteration.exe.config
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\bin\Debug\Iteration.exe
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\bin\Debug\Iteration.pdb
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\obj\Debug\Iteration.exe
+E:\C-Sharp\C_Sharp_Projects\Iteration\Iteration\Iteration\obj\Debug\Iteration.pdb
