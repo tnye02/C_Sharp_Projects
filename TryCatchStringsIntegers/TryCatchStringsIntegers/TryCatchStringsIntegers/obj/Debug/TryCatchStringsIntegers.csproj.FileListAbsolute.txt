@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\bin\Debug\TryCatchStringsIntegers.exe.config
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\bin\Debug\TryCatchStringsIntegers.exe
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\bin\Debug\TryCatchStringsIntegers.pdb
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\obj\Debug\TryCatchStringsIntegers.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\obj\Debug\TryCatchStringsIntegers.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\obj\Debug\TryCatchStringsIntegers.exe
+E:\C-Sharp\C_Sharp_Projects\TryCatchStringsIntegers\TryCatchStringsIntegers\TryCatchStringsIntegers\obj\Debug\TryCatchStringsIntegers.pdb
