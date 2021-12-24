@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\bin\Debug\MethodStep280.exe.config
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\bin\Debug\MethodStep280.exe
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\bin\Debug\MethodStep280.pdb
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\obj\Debug\MethodStep280.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\obj\Debug\MethodStep280.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\obj\Debug\MethodStep280.exe
+E:\C-Sharp\C_Sharp_Projects\MethodStep280\MethodStep280\MethodStep280\obj\Debug\MethodStep280.pdb
