@@ -14,34 +14,20 @@ namespace MainMethod
             return answer;
         }
 
-        public static double DoThings(double myDouble)
+        public static int DoThings(double myDouble)
         {
-            double answer = myDouble * 100;
-            return answer;
+            double answer = Math.Round(myDouble);
+            int ret_int = Convert.ToInt32(answer);
+            return ret_int;
         }
 
-        public static string DoThings(string myString)
+        public static int DoThings(string myString)
         {
-            int myInt;
-            try
-            {
-                if (int.TryParse(myString, out myInt))
-                {
-                    int answer = (DoThings(myInt) + 42) * 42;
-                    string success = "\n" + myInt + " plus 42 times 42 equals " + answer;
-                    return success;
-                }
-                else
-                {
-                    string fail = "\nSorry I could not convert " + myString + " to an integer.";
-                    return fail;
-                }
-            }
-            catch (Exception e)
-            {
-                string error = e.Message;
-                return error;
-            }
+            int str_convert = Convert.ToInt32(myString);
+
+            int answer = 400 * str_convert;            
+
+            return answer;
 
         }
     }
