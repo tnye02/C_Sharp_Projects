@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\bin\Debug\MethodClassStep281.exe.config
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\bin\Debug\MethodClassStep281.exe
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\bin\Debug\MethodClassStep281.pdb
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\obj\Debug\MethodClassStep281.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\obj\Debug\MethodClassStep281.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\obj\Debug\MethodClassStep281.exe
+E:\C-Sharp\C_Sharp_Projects\MethodClassStep281\MethodClassStep281\MethodClassStep281\obj\Debug\MethodClassStep281.pdb
