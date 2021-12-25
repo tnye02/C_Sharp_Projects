@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\obj\Debug\ClassStep285.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\obj\Debug\ClassStep285.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\bin\Debug\ClassStep285.exe.config
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\bin\Debug\ClassStep285.exe
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\bin\Debug\ClassStep285.pdb
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\obj\Debug\ClassStep285.exe
+E:\C-Sharp\C_Sharp_Projects\ClassStep285\ClassStep285\ClassStep285\obj\Debug\ClassStep285.pdb
