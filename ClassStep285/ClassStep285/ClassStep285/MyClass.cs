@@ -8,16 +8,16 @@ namespace ClassStep285
 {
     class MyClass
     {
-        public void myMethod(int int1)                                      // Method to divide an integer by 2
+        public void myMethod(int int1)                                          // Method to divide an integer by 2
         {
-            int answer = int1 / 2;                                          // Performs math operation
-            Console.WriteLine("\n" + answer);                               // Displays the answer     
+            int answer = int1 / 2;                                              // Performs math operation
+            Console.WriteLine(answer);                                          // Displays the answer     
         }
 
-        public int myMethod(double db1)                                     // Overloads the method
+        public void myMethod(int input, out int multiplier, out int answer)     // Overloads myMethod
         {
-            int response = Convert.ToInt32(db1);
-            return response;
+            multiplier = 3;                                                     // Declare multiplier
+            answer = input * multiplier;                                        // Math operation
         }
 
     }
