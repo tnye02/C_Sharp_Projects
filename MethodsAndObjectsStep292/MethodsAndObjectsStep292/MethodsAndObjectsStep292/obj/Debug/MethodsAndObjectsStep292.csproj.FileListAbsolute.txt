@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\MethodsAndObjectsStep292.exe.config
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\MethodsAndObjectsStep292.exe
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\MethodsAndObjectsStep292.pdb
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\MethodsAndObjectsStep292.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\MethodsAndObjectsStep292.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\MethodsAndObjectsStep292.exe
+E:\C-Sharp\C_Sharp_Projects\MethodsAndObjectsStep292\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\MethodsAndObjectsStep292.pdb
