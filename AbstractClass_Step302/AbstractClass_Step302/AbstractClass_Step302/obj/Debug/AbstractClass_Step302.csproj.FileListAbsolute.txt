@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\bin\Debug\AbstractClass_Step302.exe.config
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\bin\Debug\AbstractClass_Step302.exe
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\bin\Debug\AbstractClass_Step302.pdb
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\obj\Debug\AbstractClass_Step302.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\obj\Debug\AbstractClass_Step302.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\obj\Debug\AbstractClass_Step302.exe
+E:\C-Sharp\C_Sharp_Projects\AbstractClass_Step302\AbstractClass_Step302\AbstractClass_Step302\obj\Debug\AbstractClass_Step302.pdb
