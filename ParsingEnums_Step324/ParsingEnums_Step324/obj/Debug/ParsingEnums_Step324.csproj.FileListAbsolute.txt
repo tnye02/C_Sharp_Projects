@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\bin\Debug\ParsingEnums_Step324.exe.config
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\bin\Debug\ParsingEnums_Step324.exe
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\bin\Debug\ParsingEnums_Step324.pdb
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\obj\Debug\ParsingEnums_Step324.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\obj\Debug\ParsingEnums_Step324.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\obj\Debug\ParsingEnums_Step324.exe
+E:\C-Sharp\C_Sharp_Projects\ParsingEnums_Step324\ParsingEnums_Step324\obj\Debug\ParsingEnums_Step324.pdb
