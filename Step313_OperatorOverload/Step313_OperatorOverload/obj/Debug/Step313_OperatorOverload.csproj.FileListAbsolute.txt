@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\bin\Debug\Step313_OperatorOverload.exe.config
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\bin\Debug\Step313_OperatorOverload.exe
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\bin\Debug\Step313_OperatorOverload.pdb
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\obj\Debug\Step313_OperatorOverload.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\obj\Debug\Step313_OperatorOverload.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\obj\Debug\Step313_OperatorOverload.exe
+E:\C-Sharp\C_Sharp_Projects\Step313_OperatorOverload\Step313_OperatorOverload\obj\Debug\Step313_OperatorOverload.pdb
