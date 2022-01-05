@@ -8,9 +8,6 @@ namespace Polymorphism_Step306b
 {
     interface IQuittable
     {
-        public void Quit()
-        {
-
-        }
+        void Quit();
     }
 }

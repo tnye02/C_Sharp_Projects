@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClass_Step302
+namespace Polymorphism_Step306b
 {
     public abstract class Person                            // Declare abstract class that can not be an object on its own
     {

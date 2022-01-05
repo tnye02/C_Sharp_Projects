@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClass_Step302
+namespace Polymorphism_Step306b
 {
     class Program
     {
@@ -17,6 +17,9 @@ namespace AbstractClass_Step302
             employee.SayName();                             // Call SayName method on the object
             Console.ReadLine();
 
+            employee.Quit();
+
+            Console.ReadLine();
         }
     }
 }
