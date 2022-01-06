@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\bin\Debug\Lambda_Step337.exe.config
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\bin\Debug\Lambda_Step337.exe
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\bin\Debug\Lambda_Step337.pdb
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\obj\Debug\Lambda_Step337.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\obj\Debug\Lambda_Step337.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\obj\Debug\Lambda_Step337.exe
+E:\C-Sharp\C_Sharp_Projects\Lambda_Step337\Lambda_Step337\obj\Debug\Lambda_Step337.pdb
