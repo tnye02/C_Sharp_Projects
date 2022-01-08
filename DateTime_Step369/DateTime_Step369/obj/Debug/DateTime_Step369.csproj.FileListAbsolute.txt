@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\bin\Debug\DateTime_Step369.exe.config
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\bin\Debug\DateTime_Step369.exe
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\bin\Debug\DateTime_Step369.pdb
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\obj\Debug\DateTime_Step369.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\obj\Debug\DateTime_Step369.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\obj\Debug\DateTime_Step369.exe
+E:\C-Sharp\C_Sharp_Projects\DateTime_Step369\DateTime_Step369\obj\Debug\DateTime_Step369.pdb
