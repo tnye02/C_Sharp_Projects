@@ -14,13 +14,13 @@ namespace Constructors_Step383
 
         }
 
-        //------------ Original constructor method -------------
+        //------------ Original constructor method (used var type instead of string) -------------
         public FullName(string fName, string midName, string lName)
         {
-            string first_name = fName;
-            string last_name = lName;
-            string middle_name = midName;
-            string full_name = fName + " " + midName + " " + lName;
+            var first_name = fName;
+            var last_name = lName;
+            var middle_name = midName;
+            var full_name = fName + " " + midName + " " + lName;
 
             Console.WriteLine("Full name: " + full_name);
         }
