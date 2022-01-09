@@ -1,0 +1,7 @@
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\bin\Debug\Constructors_Step383.exe.config
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\bin\Debug\Constructors_Step383.exe
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\bin\Debug\Constructors_Step383.pdb
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\obj\Debug\Constructors_Step383.csproj.AssemblyReference.cache
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\obj\Debug\Constructors_Step383.csproj.CoreCompileInputs.cache
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\obj\Debug\Constructors_Step383.exe
+E:\C-Sharp\C_Sharp_Projects\Constructors_Step383\Constructors_Step383\obj\Debug\Constructors_Step383.pdb
