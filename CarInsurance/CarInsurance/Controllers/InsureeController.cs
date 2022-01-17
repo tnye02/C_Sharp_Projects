@@ -40,6 +40,8 @@ namespace CarInsurance.Controllers
 
                     if (age >= 25) { item.Quote += 25; }
 
+                    if (item.CarYear < 2000) { item.Quote += 25; }
+
                     if (item.CarYear > 2015) { item.Quote += 25; }
 
                     if (item.CarMake.ToLower() == "porsche")
