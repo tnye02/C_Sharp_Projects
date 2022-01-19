@@ -36,9 +36,9 @@ namespace CarInsurance.Controllers
 
                     if (age <= 18) { item.Quote += 100; }
 
-                    if (age > 18 && age < 25) { item.Quote += 50; }
+                    if (age > 18 && age <= 25) { item.Quote += 50; }
 
-                    if (age >= 25) { item.Quote += 25; }
+                    if (age > 25) { item.Quote += 25; }
 
                     if (item.CarYear < 2000) { item.Quote += 25; }
 
